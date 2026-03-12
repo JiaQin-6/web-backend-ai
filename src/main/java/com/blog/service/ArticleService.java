@@ -12,7 +12,7 @@ import java.util.Optional;
 
 @Service
 public class ArticleService {
-    
+    // 依赖注入
     @Autowired
     private ArticleRepository articleRepository;
     

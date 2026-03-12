@@ -4,7 +4,7 @@ server:
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/my_new_project
-    username: david
+    username: michelle
     password: lijiaqin
     driver-class-name: org.postgresql.Driver
 
